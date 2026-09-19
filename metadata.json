@@ -1,0 +1,6 @@
+{
+  "name": "Live TV Thailand",
+  "description": "เว็บทีวีถ่ายทอดสด ตารางช่อง รายการออกอากาศสด โหมดทีวี/Smart TV/Fire TV และเครื่องเล่น HLS พร้อมระบบ Proxy สตรีม",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
